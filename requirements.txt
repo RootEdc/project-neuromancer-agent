@@ -1,0 +1,7 @@
+google-genai
+anyio
+httpx
+pydantic
+requests
+tenacity
+websockets
