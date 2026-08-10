@@ -1,6 +1,6 @@
 # Project Neuromancer Agent (Core Awakening)
 
-![Project Neuromancer Agent Header](image_3.png)
+![Project Neuromancer Agent Header](header.png)
 
 > **Warning**
 > This is a powerful, system-integrated engineering tool for Kali Linux. It operates with `shell=True` for maximum flexibility, allowing complex command chaining (&&) and pipes (|). It includes an **Automated Blacklist (Hardware Fuse)** and requires explicit authorization `[y/n]` before *any* command execution. You must read the included safety documentation.
