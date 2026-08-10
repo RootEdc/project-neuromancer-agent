@@ -45,6 +45,9 @@ python3 -m venv venv
 source venv/bin/activate
 pip install google-genai
 ```
+​Alternatively, use the requirements file:
+pip install -r requirements.txt
+
 
 ### Step 2: Global Alias (Wrapper)
 
